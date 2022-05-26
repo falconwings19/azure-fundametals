@@ -14,25 +14,26 @@
 
 2. Cloud Benefits and Considerations
 
-- High availability
-- Scalability
-- Fault tolerance
-- Elasticity
-- Global reach
-- Agility
-- Customer latency capabilities : as close to customer as possible to reduce latency
-- Predictive cost considerations : help you determine actual cost before spending. No surprise bills
+- Benfits:
+  - High availability
+  - Scalability
+  - Fault tolerance
+  - Elasticity
+  - Global reach
+  - Agility
+  - Customer latency capabilities : as close to customer as possible to reduce latency
+  - Predictive cost considerations : help you determine actual cost before spending. No surprise bills
 
-CapEx
-Capital Expenditure:
+- CapEx Vs OpEx:
+  - CapEx / Capital Expenditure:
     - up-front spending of money on physical infra
     - costs reduce over time
-OpEx
+  - OpEx / Operational Expediture
 
-Consumption based model
-    - Better cost prediction
-    - Prices for individual resources and services are provided
-    - Billing based on actual usage
+- Consumption based model
+  - Better cost prediction
+  - Prices for individual resources and services are provided
+  - Billing based on actual usage
 
 3. Cloud Services
 
@@ -56,6 +57,14 @@ Consumption based model
 ### Break – 10 minutes
 
 ### Azure Solutions and Management Tools (10-15%)
+
+- Management tools
+  - Azure advisor:
+    - Gives recommendations regarding: cost, security, reliability, operational excellence, performance etc.
+  - Service health
+    - Provides overview of your resources based on: subscriptions, regions and services.
+    - Tells you health, history and plan maintenances
+- Azure monitor
 
 ### Closing Q&A
 
